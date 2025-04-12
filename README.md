@@ -1,7 +1,7 @@
-# hackamt-ValidaA-
-Repositório de desenvolvimento do projeto validaAí
 
 📈 Projeto Vacinaí – Sistema de Gestão e Acesso Inteligente à Vacinação
+
+
 
 🔧 Desafio Atacado (HackaMT – Desafio 2)
 
@@ -15,9 +15,11 @@ Falta de integração entre UBSs e canais de informação.
 
 População sem acesso a dados atualizados de disponibilidade vacinal.
 
+
 🌟 Objetivo Geral
 
 Desenvolver um sistema digital que integre informações de estoque vacinal com os cidadãos, otimize a gestão dos imunobiológicos e evite desperdícios, com integração ao ConecteSUS e notificações inteligentes.
+
 
 🔗 Solução Proposta: Vacinaí
 
@@ -29,6 +31,8 @@ Notificações push/email/SMS quando vacinas estiverem disponíveis.
 
 Mapa interativo com UBSs e disponibilidade.
 
+
+
 2. Painel Administrativo para Gestores
 
 Dashboard com controle de estoque em tempo real.
@@ -39,6 +43,8 @@ Cadastro de lotes de vacina.
 
 Geração de relatórios por localidade/faixa etária/vacina.
 
+
+
 3. Integrações
 
 Integração com ConecteSUS.
@@ -46,6 +52,8 @@ Integração com ConecteSUS.
 API RESTful para comunicação com UBSs.
 
 Integração futura com sistemas estaduais/municipais.
+
+
 
 🧠 Inovações Técnicas
 
@@ -57,13 +65,17 @@ Sistema de alertas com IA preditiva (futuro).
 
 Painel público com BI de dados vacinais.
 
+
+
 👨‍💻 Equipe
 
-3 Desenvolvedores: Backend, Frontend, Integrações.
+3 Desenvolvedores (Henrique, Brenno e khesner): Backend, Frontend, Integrações.
 
-1 Designer/Marketing: UX/UI, identidade visual, divulgação.
+1 Designer/Marketing (Borges): UX/UI, identidade visual, divulgação.
 
 1 Negócios (Dudu): planejamento, estratégia, pitch e entrega.
+
+
 
 📅 Backlog Estruturado
 
@@ -81,6 +93,8 @@ Status
 
 Critérios de aceitação
 
+
+
 Exemplos:
 
 Criar sistema de busca por vacina por UBS – Feature – Alta – Sprint 1
@@ -89,9 +103,12 @@ Notificação para o cidadão quando a vacina estiver disponível – Feature �
 
 Painel administrativo para visualização de estoque – Feature – Alta – Sprint 2
 
+
+
 📊 Alinhamento com Critérios do HackaMT
 
 Critério
+
 
 Como o Vacinaí atende
 
@@ -114,6 +131,7 @@ Redução de perdas, aumento da adesão vacinal.
 Desenvolvimento da Equipe
 
 Equipe multidisciplinar, com papéis bem definidos.
+
 
 📌 Conclusão
 
